@@ -110,9 +110,6 @@ footer {
     background-color: rgb(37, 3, 30);
     text-align: center;
 }
-/* .navbar2 a:hover {
-    color: blue;
-} */
 #Home_t:hover{
     background-image: linear-gradient(red, yellow);
     color:black;
