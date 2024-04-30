@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url(./assets/1670002105_25-kartinkin-net-p-fon-kalyan-vkontakte-26.jpg);
+    background-image: url(../1670002105_25-kartinkin-net-p-fon-kalyan-vkontakte-26.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -109,4 +109,19 @@ footer {
     margin-top: 200px;
     background-color: rgb(37, 3, 30);
     text-align: center;
+}
+/* .navbar2 a:hover {
+    color: blue;
+} */
+#Home_t:hover{
+    background-image: linear-gradient(red, yellow);
+    color:black;
+}
+#About_t:hover{
+    background-image: linear-gradient(red, yellow);
+    color:black;
+}
+#Contact_t:hover{
+    background-image: linear-gradient(red, yellow);
+    color:black;
 }
